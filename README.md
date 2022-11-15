@@ -42,7 +42,7 @@ This package has been developed by the VSN International team (https://vsni.co.u
 * Darren Murray, VSN International, darren.murray@vsni.co.uk
 
 
-**Maintence**
+**Maintenance**
 
 * Salvador Gezan, VSN International, salvador.gezan@vsni.co.uk
 
