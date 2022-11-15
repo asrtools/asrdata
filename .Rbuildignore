@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^doc$
+^Meta$
+^Jenkinsfile$
+^scm$
+^noup$
+^misc$
+^scripts$
+^LICENSE\.md$
+^cran-comments\.md$
