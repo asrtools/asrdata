@@ -10,7 +10,7 @@ Use the following code to download and install ASRdata:
 
 ```R
 install.packages("devtools")
-devtools::install_github("asreml/ASRdata")
+devtools::install_github("asreml/asrdata")
 ```
 
 ## Usage
