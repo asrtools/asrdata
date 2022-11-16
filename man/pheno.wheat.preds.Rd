@@ -21,6 +21,8 @@ later fitted using \link[ASRtriala]{fit.single} with \code{fix.vc = TRUE} to
 obtain final predicted values (adjusted means) and their weights.
 Dataset obtained from supplementary material in
 Belamkar \emph{et al.} (2018).
+
+For more information refer to the original publication.
 }
 \examples{
 pheno.wheat.preds |> head()

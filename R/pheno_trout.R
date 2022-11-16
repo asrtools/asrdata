@@ -7,6 +7,8 @@
 #' and mortality (\code{ipn_mortality}). Dataset obtained from supplementary
 #' material in Rodríguez \emph{et al.} (2019).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage pheno.trout

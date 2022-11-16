@@ -12,6 +12,8 @@
 #' Dataset obtained from supplementary material in
 #' Belamkar \emph{et al.} (2018).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage pheno.wheat.preds

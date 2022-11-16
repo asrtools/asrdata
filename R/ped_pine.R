@@ -5,6 +5,8 @@
 #' Missing parental information coded as 0.
 #' Dataset obtained from supplementary material in Resende \emph{et al.} (2012).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage ped.pine

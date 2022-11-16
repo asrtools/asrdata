@@ -15,6 +15,9 @@ Genotypic data on 247 apple clones (\emph{i.e.}, genotypes) with a total of
 2,828 SNP markers (coded as 0, 1, 2 and there are no missing records).
 Dataset obtained from supplementary material in Kumar \emph{et al.} (2015).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 geno.apple[1:5, 1:5]
 

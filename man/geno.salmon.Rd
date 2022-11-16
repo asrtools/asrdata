@@ -16,6 +16,9 @@ SNP markers (coded as 0, 1, 2 and \code{NA} for missing) are included in this
 dataset. Dataset obtained from supplementary material in Robledo
 \emph{et al.} (2018).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 geno.salmon[1:5, 1:5]
 

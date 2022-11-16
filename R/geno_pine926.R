@@ -4,6 +4,8 @@
 #' for missing) on 926 genotypes of Loblolly Pine (\emph{Pinus taeda} L.).
 #' Dataset obtained from supplementary material in Resende \emph{et al.} (2012).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage geno.pine926

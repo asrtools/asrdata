@@ -14,6 +14,8 @@
 #' \code{Entryc}) has been changed to \code{0} (test) and \code{1} (checks); and
 #' 3) variable \code{new} was removed.
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage pheno.wheat

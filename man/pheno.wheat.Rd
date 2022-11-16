@@ -23,6 +23,8 @@ There are a few modifications from the original data:
 (Mead, Kansas, and Westbred); 2) the check variable (originally called
 \code{Entryc}) has been changed to \code{0} (test) and \code{1} (checks); and
 3) variable \code{new} was removed.
+
+For more information refer to the original publication.
 }
 \examples{
 pheno.wheat |> head()

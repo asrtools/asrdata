@@ -16,6 +16,9 @@ several fruit quality traits at two New Zealand sites, Motueka (MOT) and
 Hawkes Bay (HB). Dataset obtained from supplementary material in Kumar
 \emph{et al.} (2015).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 pheno.apple |> head()
 

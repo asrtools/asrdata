@@ -17,6 +17,9 @@ The dataset contains a total of 861 genotypes of loblolly pine
 (\emph{Pinus taeda} L.).
 Dataset obtained from supplementary material in Resende \emph{et al.} (2012).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 pheno.pine |> head()
 

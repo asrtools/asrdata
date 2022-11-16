@@ -6,6 +6,8 @@
 #' (2012). This dataset differs from the original as some genotypes were made
 #' artificially missing by full-sib family.
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage geno.pine655

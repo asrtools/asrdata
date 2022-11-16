@@ -17,6 +17,9 @@ Dataset modified from supplementary material from Resende \emph{et al.}
 (2012). This dataset differs from the original as some genotypes were made
 artificially missing by full-sib family.
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 geno.pine655[1:5, 1:5]
 

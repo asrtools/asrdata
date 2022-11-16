@@ -5,6 +5,8 @@
 #' dataset. Dataset obtained from supplementary material in Robledo
 #' \emph{et al.} (2018).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage geno.salmon

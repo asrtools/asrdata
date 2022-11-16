@@ -16,6 +16,9 @@ Individual pedigree data for a total of 2,034 records of loblolly pine
 Missing parental information coded as 0.
 Dataset obtained from supplementary material in Resende \emph{et al.} (2012).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 ped.pine |> head()
 

@@ -18,6 +18,9 @@ identification of the fish (\code{ID}), family (\code{family}),
 and mortality (\code{ipn_mortality}). Dataset obtained from supplementary
 material in Rodríguez \emph{et al.} (2019).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 pheno.trout |> head()
 

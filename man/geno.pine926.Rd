@@ -15,6 +15,9 @@ Genotypic data for a total of 4,853 SNPs (coded as 0, 1, 2 and -9
 for missing) on 926 genotypes of Loblolly Pine (\emph{Pinus taeda} L.).
 Dataset obtained from supplementary material in Resende \emph{et al.} (2012).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 geno.pine926[1:5, 1:5]
 

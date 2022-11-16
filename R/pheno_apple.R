@@ -5,6 +5,8 @@
 #' Hawkes Bay (HB). Dataset obtained from supplementary material in Kumar
 #' \emph{et al.} (2015).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage pheno.apple

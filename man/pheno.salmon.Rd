@@ -18,6 +18,9 @@ gill and right gill scores) and amoebic load (qPCR values using
 gills). Dataset obtained from supplementary material in Robledo \emph{et al.}
 (2018).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 pheno.salmon |> head()
 

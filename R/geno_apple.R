@@ -4,6 +4,8 @@
 #' 2,828 SNP markers (coded as 0, 1, 2 and there are no missing records).
 #' Dataset obtained from supplementary material in Kumar \emph{et al.} (2015).
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage geno.apple

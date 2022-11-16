@@ -15,6 +15,9 @@ Pedigree data of 1,481 Atlantic salmon samples.
 Missing parental information coded as 0.
 Dataset obtained from supplementary material in Robledo \emph{et al.} (2018).
 }
+\details{
+For more information refer to the original publication.
+}
 \examples{
 ped.salmon |> head()
 

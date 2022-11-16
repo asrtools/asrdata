@@ -8,6 +8,8 @@
 #' A few modifications from the original data: 1) genotypes names assigned to
 #' the row names; and genotype coding changed from nucleotides to allele count.
 #'
+#' For more information refer to the original publication.
+#'
 #' @docType data
 #'
 #' @usage geno.trout
