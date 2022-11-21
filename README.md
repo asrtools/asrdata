@@ -1,6 +1,6 @@
 # ASRdata
 
-This library presents a series of datasets used on the ASR packages.
+This library presents a series of datasets used in the ASR packages.
 The datasets have been collected from publications and present
 meaningful structures to test phenotypic and genomic analysis.
 
@@ -21,7 +21,7 @@ To load the library use:
 library(ASRdata)
 ```
 
-ASRdata uses `lazydata` which means the datasets are avaialable once the package is loaded.
+ASRdata uses `lazydata` which means the datasets are available once the package is loaded.
 In other words, there is no need to call `data()` to access them. For example, to see
 the first rows of the apple dataset, one can call:
 
