@@ -61,4 +61,28 @@ test_that("Datasets work", {
 
   expect_true(is.data.frame(pheno.wheat.preds))
 
+  expect_no_error(besag.elbatan)
+
+  expect_true(is.data.frame(besag.elbatan))
+
+  expect_no_error(twinlong)
+
+  expect_true(is.data.frame(twinlong))
+
+  expect_no_error(semicond)
+
+  expect_true(is.data.frame(semicond))
+
+  expect_no_error(rail)
+
+  expect_true(is.data.frame(rail))
+
+  expect_no_error(ratpup)
+
+  expect_true(is.data.frame(ratpup))
+
+  expect_no_error(pixel)
+
+  expect_true(is.data.frame(pixel))
+
 })
