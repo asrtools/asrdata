@@ -85,4 +85,8 @@ test_that("Datasets work", {
 
   expect_true(is.data.frame(pixel))
 
+  expect_no_error(leafarea)
+
+  expect_true(is.data.frame(leafarea))
+
 })
